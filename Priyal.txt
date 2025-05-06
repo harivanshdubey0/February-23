@@ -1,0 +1,9 @@
+date 13 feb 2024
+day tuesday
+
+note-1rupee100paisa
+writing the amount in word
+rs10.15=ten rupees and fifting paisa
+rs15.15=fiftingrupees fifting paisa
+rs5.05=five rupees fiive paisa
+rs
